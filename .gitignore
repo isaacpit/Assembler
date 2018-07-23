@@ -1,0 +1,8 @@
+*.hack
+*.hack2
+main
+*.o
+*.asm
+*.foo
+compare
+test
